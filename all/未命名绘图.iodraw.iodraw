@@ -33,8 +33,11 @@
         <mxCell id="SDC8FGRfxPWGvXtyfaBj-11" value="②交互反馈数据接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="339.99999999999994" y="260" as="geometry" />
         </mxCell>
-        <mxCell id="SDC8FGRfxPWGvXtyfaBj-12" value="①基础支撑数据接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+        <mxCell id="SDC8FGRfxPWGvXtyfaBj-12" value="③训练过程数据接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="580" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SDC8FGRfxPWGvXtyfaBj-13" value="①基础支撑数据接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="369.79999999999995" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
