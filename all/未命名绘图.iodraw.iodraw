@@ -30,6 +30,9 @@
         <mxCell id="SDC8FGRfxPWGvXtyfaBj-3" value="UAV练习评估分系统" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="640" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SDC8FGRfxPWGvXtyfaBj-11" value="①基础支撑数据接口" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="339.99999999999994" y="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
