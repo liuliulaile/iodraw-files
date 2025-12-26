@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MzHvHySt5jdwHAe6tqRs-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MzHvHySt5jdwHAe6tqRs-1" value="&lt;span style=&quot;font-size:10.5pt;mso-bidi-font-size:10.0pt;&lt;br/&gt;font-family:宋体;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA;layout-grid-mode:line&quot;&gt;运动信息采集和实时定位子系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
